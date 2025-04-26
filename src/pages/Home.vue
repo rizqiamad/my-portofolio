@@ -14,7 +14,7 @@ import { MotionComponent, MotionGroupComponent } from "@vueuse/motion";
         duration="800"
         class="rounded-t-full bg-linear-to-r from-primary to-[#0432bb4d]/30 flex-1 h-[30rem] flex justify-center"
       >
-        <img src="/src/assets/hanifahmad.png" alt="Hanif Ahmad Rizqullah" />
+        <img src="/hanifahmad.png" alt="Hanif Ahmad Rizqullah" />
       </MotionComponent>
 
       <MotionGroupComponent

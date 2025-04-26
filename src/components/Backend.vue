@@ -1,7 +1,7 @@
 <script lang="ts" setup>
-import Golang from "/src/assets/programming-language/golang.png";
-import Nodejs from "/src/assets/programming-language/nodejs.png";
-import Express from "/src/assets/programming-language/express.png";
+import Golang from "/programming-language/golang.png";
+import Nodejs from "/programming-language/nodejs.png";
+import Express from "/programming-language/express.png";
 
 const icons = [Golang, Nodejs, Express];
 </script>

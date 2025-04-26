@@ -1,11 +1,11 @@
 <script lang="ts" setup>
-import Html from "/src/assets/programming-language/html.png";
-import Css from "/src/assets/programming-language/css.png";
-import Javascript from "/src/assets/programming-language/javascript.png";
-import React from "/src/assets/programming-language/react.png";
-import Vue from "/src/assets/programming-language/vue.png";
-import Next from "/src/assets/programming-language/nextjs.png";
-import Tailwind from "/src/assets/programming-language/tailwind.png";
+import Html from "/programming-language/html.png";
+import Css from "/programming-language/css.png";
+import Javascript from "/programming-language/javascript.png";
+import React from "/programming-language/react.png";
+import Vue from "/programming-language/vue.png";
+import Next from "/programming-language/nextjs.png";
+import Tailwind from "/programming-language/tailwind.png";
 
 const icons = [Html, Css, Javascript, React, Vue, Next, Tailwind];
 </script>

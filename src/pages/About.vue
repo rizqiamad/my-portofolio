@@ -59,7 +59,7 @@ const enter = {
       </div>
     </div>
     <div
-      style="background-image: url(/src/assets/dicoding-event.jpg)"
+      style="background-image: url(/dicoding-event.jpg)"
       class="aspect-[12/9] bg-cover rounded-2xl bg-center mb-10"
     />
     <MotionGroupComponent
@@ -99,7 +99,7 @@ const enter = {
             </p>
           </div>
           <div
-            style="background-image: url(/src/assets/portofolio/finpro.png)"
+            style="background-image: url(/portofolio/finpro.png)"
             class="sm:flex-1/6 sm:aspect-[12/9] bg-cover bg-center rounded-2xl h-full w-full"
           />
         </div>
@@ -133,7 +133,7 @@ const enter = {
             </p>
           </div>
           <div
-            style="background-image: url(/src/assets/portofolio/minpro.png)"
+            style="background-image: url(/portofolio/minpro.png)"
             class="sm:flex-1/6 sm:aspect-[12/9] bg-cover bg-center rounded-2xl h-full w-full"
           />
         </div>
@@ -166,9 +166,7 @@ const enter = {
             </p>
           </div>
           <div
-            style="
-              background-image: url(/src/assets/portofolio/company-profile.png);
-            "
+            style="background-image: url(/portofolio/company-profile.png)"
             class="sm:flex-1/6 sm:aspect-[12/9] bg-cover bg-center rounded-2xl h-full w-full"
           />
         </div>

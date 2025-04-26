@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import Instagram from "/src/assets/social/instagram.png";
-import Youtube from "/src/assets/social/youtube.png";
-import Linkedin from "/src/assets/social/linkedin.png";
-import Github from "/src/assets/social/github.png";
+import Instagram from "/social/instagram.png";
+import Youtube from "/social/youtube.png";
+import Linkedin from "/social/linkedin.png";
+import Github from "/social/github.png";
 const icons = [
   { url: "https://www.youtube.com/@NoDegreeDeveloperOfficial", icon: Youtube },
   {

@@ -26,7 +26,9 @@ onUnmounted(() => {
 <template>
   <header
     class="z-50 flex max-w-[1200px] mx-auto items-center py-2 sticky top-4 gap-10 px-4 transition duration-300"
-    :class="scrollVertical > 0 && 'bg-primary border rounded-full border-white/20'"
+    :class="
+      scrollVertical > 0 && 'bg-primary border rounded-full border-white/20'
+    "
   >
     <RouterLink class="text-white/90 text-base sm:text-xl font-bold" to="/"
       >Hanif Ahmad</RouterLink
@@ -44,7 +46,7 @@ onUnmounted(() => {
     <a
       class="hidden sm:block text-white/90 font-semibold cursor-pointer hover:bg-blue-600 bg-blue-500 px-4 py-1 rounded-full"
       download="Hanif Ahmad Rizqullah_CV.pdf"
-      href="/cv.pdf"
+      href="/Hanif Ahmad Rizqullah_CV_ATS.pdf"
     >
       DOWNLOAD CV
     </a>

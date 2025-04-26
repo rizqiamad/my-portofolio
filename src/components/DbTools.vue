@@ -1,10 +1,10 @@
 <script lang="ts" setup>
-import Mongodb from "/src/assets/db/mongodb.png";
-import Postgresql from "/src/assets/db/postgresql.png";
-import Git from "/src/assets/tools/git.png";
-import Github from "/src/assets/tools/github.png";
-import Mongoose from "/src/assets/tools/mongoose.png";
-import Prisma from "/src/assets/tools/prisma.png";
+import Mongodb from "/db/mongodb.png";
+import Postgresql from "/db/postgresql.png";
+import Git from "/tools/git.png";
+import Github from "/tools/github.png";
+import Mongoose from "/tools/mongoose.png";
+import Prisma from "/tools/prisma.png";
 
 const icons = [Mongodb, Postgresql, Git, Github, Mongoose, Prisma];
 </script>
